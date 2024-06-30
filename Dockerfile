@@ -10,6 +10,6 @@ COPY api/package.json api/package.json
 COPY web/package.json web/package.json
 COPY docker/stack.env .
 RUN yarn cache clean
-RUN yarn install --ignore-engines
+RUN apt-get --assume-yes install yarn && apt-mark hold yarn
 COPY . .
 RUN yarn workspaces run build
