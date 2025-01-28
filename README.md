@@ -5,7 +5,15 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 [![img](https://drive.google.com/uc?id=1o2HnKglEF0-cvtNmQqWZicJnSCSmnoEr)](https://twitter.com/telegram/status/1428703364737507332)
 
 ## Motivation
-
+<a onclick="Share.facebook('URL','TITLE','IMG_PATH','DESC')"> {sharing is sexy}</a>
+<a onclick="Share.twitter('URL','TITLE')"> {sharing is sexy}</a>
+or
+<a href="http://www.facebook.com/sharer/sharer.php?s=100&
+p%5Btitle%5D=TITLE&p%5Bsummary%5D=DESC&p%5Burl%5D=
+URL&p%5Bimages%5D%5B0%5D=IMG_PATH" target="_blank" onclick="return Share.me(this);">{sharing is sexy}</a>
+<a href="https://twitter.com/intent/tweet?original_referer=
+http%3A%2F%2Ffiddle.jshell.net%2F_display%2F&text=TITLE&url
+=URL" target="_blank" onclick="return Share.me(this)">{sharing is sexy}</a>
 - [Google Photos ends the free storage service](https://www.techradar.com/news/google-photos-price)
 - We deserve the free cloud storage service! Pricing: [Google Drive](https://one.google.com/about/plans), [OneDrive](https://one.google.com/about/plans), [Dropbox](https://www.dropbox.com/individual/plans-comparison), [iCloud](https://support.apple.com/en-us/HT201238)
 
