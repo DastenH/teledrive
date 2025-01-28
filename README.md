@@ -12,6 +12,7 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 
 ## Getting Started
 
+https://www.hardreset.info/bypass/
 Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 
 ## API Documentation
