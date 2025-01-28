@@ -12,6 +12,7 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 
 ## Getting Started
 
+https://www.youtube.com/watch?v=CJVyDK7_wOA
 https://easysimplesolution.com/?page_id=28
 intent://com.google.android.youtube/#Intent;scheme=android-app;end
 https://vnrom.net/bypass/
