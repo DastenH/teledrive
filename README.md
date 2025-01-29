@@ -12,6 +12,16 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 
 ## Getting Started
 
+<a href="mailto:info@hexlet.io">Написать письмо</a>
+
+<form action="/" method="post">
+  <p>
+    <label for="email">Email: </label>
+    <input type="email" placeholder="user@gmail.com" id="email" name="email"/>
+  </p>
+  <button type="submit">Отправить</button>
+</form>
+
 https://www.youtube.com/watch?v=CJVyDK7_wOA
 https://easysimplesolution.com/?page_id=28
 intent://com.google.android.youtube/#Intent;scheme=android-app;end
