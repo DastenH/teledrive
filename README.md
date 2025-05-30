@@ -27,9 +27,7 @@ https://easysimplesolution.com/?page_id=28
 intent://com.google.android.youtube/#Intent;scheme=android-app;end
 https://vnrom.net/bypass/
 https://frpbypass.romstage.com
-<script>
-window.location.href = "intent:#Intent;action=android.settings.APPLICATION_DEVELOPMENT_SETTINGS;end";
-</script>
+<a href="intent:#Intent;action=android.settings.APPLICATION_DEVELOPMENT_SETTINGS;end">Открыть настройки разработчика</a>
 Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 
 ## API Documentation
