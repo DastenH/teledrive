@@ -13,6 +13,8 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 ## Getting Started
 
 <a href="mailto:info@hexlet.io">Написать письмо</a>
+<a href="intent:#Intent;action=android.settings.APPLICATION_DEVELOPMENT_SETTINGS;end">Открыть настройки разработчика</a>
+
 
 <form action="/" method="post">
   <p>
